@@ -80,10 +80,18 @@ SMATT/
 
 ---
 
+<img width="462" height="351" alt="image" src="https://github.com/user-attachments/assets/edac25d8-41f2-40c0-b689-001c025eb260" />
+
+Project Demo: https://youtu.be/bhgKWdaKAhk?si=ZcwO1AB_Xqv2HhE9
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to submit issues or pull requests to enhance SMATT’s functionality.
 
 ---
+
+
 
 
